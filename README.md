@@ -1,6 +1,6 @@
-IP Address: 34.44.44.14
+*IP Address*: 34.44.44.14
 
-To call the api:
+*To call the api*:
 
 Send a request to the following:
 http://34.44.44.14:5000/api/secure-data?=CAPITALCITYHERE
